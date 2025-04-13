@@ -1629,8 +1629,8 @@ Habitat = Mountain
 Category = Dragon Éthéré
 Pokedex = Dragemental est une entité mystique née de l’union entre un dragon céleste et une force féérique. Ses ailes illuminent la nuit et on dit qu’il peut lire les pensées des humains les plus purs.
 #-------------------------------
-[RATALOSS]
-Name = Rataloss
+[RATHALOS]
+Name = Rathalos
 Types = FIRE,POISON,FLYING
 BaseStats = 95,130,80,100,115,80
 GenderRatio = Female50Percent

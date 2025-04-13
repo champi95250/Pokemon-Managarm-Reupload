@@ -459,9 +459,7 @@ module GatchaPKM
         { name: :FANHERBE, rate: 100 },
         { name: :TRIPULZ, rate: 100 },
         { name: :PYROQUET, rate: 100 }
-
         
-
 
       ],
     :reward_type => :pokemon,# Donne directement le Pokémon

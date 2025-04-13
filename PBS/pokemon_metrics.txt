@@ -6936,7 +6936,7 @@ BackSprite = 0,0
 FrontSprite = 0,0
 ShadowSprite = 0,0,0
 #-------------------------------
-[RATALOSS]
+[RATHALOS]
 BackSprite = 0,37
 FrontSprite = 0,16
 DmaxBackSprite = 0,0
