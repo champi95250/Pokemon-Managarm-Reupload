@@ -1601,7 +1601,7 @@ LoseText = Je t'avais dit de te taire Victor
 Pokemon = CORVIKNIGHT,71
 Pokemon = ACCELGOR,73
 #------------------------------- GROTTE VICTOIRE 2v2
-[TOPDRESSEUR02,Victor]
+[TOPDRESSEUR01,Victor]
 LoseText = Mais j'pensais qu'il aurai perdu facilement ... 
 Pokemon = LUXRAY,72
 Pokemon = HAXORUS,72
