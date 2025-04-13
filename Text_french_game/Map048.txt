@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map048]
+\bCe mélofée à besoin d'aide. Il est souvent chasser par d'autre pokémon de son habitat.
+\bCe mélofée à besoin d'aide. Il est souvent chasser par d'autre pokémon de son habitat. 
+\bLes pokémons présent sont assez aléatoire et souvent assez fort. Voir légèrement plus fort que l'arène qui la précède.
+\bLes pokémons présent sont assez aléatoire et souvent assez fort. Voir légèrement plus fort que l'arène qui la précède. 
+Un petit mélofée à l'air d'avoir besoin d'aide
+Un petit mélofée à l'air d'avoir besoin d'aide
+Voulez vous l'aider ?
+Voulez vous l'aider ?
+Le mélofée vous donne des objets pour vous remercier !
+Le mélofée vous donne des objets pour vous remercier !
+La grotte semble fermer par un pouvoir antique
+La grotte semble fermer par un pouvoir antique
+\bMoi, peur du noir ? Haha !
+\bMoi, peur du noir ? Haha !
+\bJ'ai peur d'allez plus loin !
+\bJ'ai peur d'allez plus loin !
+Oui
+Oui
+Non
+Non

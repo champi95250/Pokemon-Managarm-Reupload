@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map078]
+\bT'aime la raclette ?
+\bT'aime la raclette ?
+\bUne bonne odeur de fromage là !
+\bUne bonne odeur de fromage là ! 

@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map091]
+\rJe suis une assistance du Prof
+\rJe suis une assistance du Prof
+\rTu savais que les pokémon sauvage n'apparaise pas en même temps ?
+\rTu savais que les pokémon sauvage n'apparaise pas en même temps ?
+\rOn a référencer 4 types de moment. La Nuit, Le Matin, L'apres-midi et le Soir.
+\rOn a référencer 4 types de moment. La Nuit, Le Matin, L'apres-midi et le Soir. 
+\rLe matin commence a 5h et fini a 12H
+\rLe matin commence a 5h et fini a 12H
+\rL'apres-midi a 12H jusqu'a 17H
+\rL'apres-midi a 12H jusqu'a 17H
+\rLe soir de 17H a 20H
+\rLe soir de 17H a 20H
+\rEt la nuit de 20H a 5H
+\rEt la nuit de 20H a 5H
+Laboratoire du Prof
+Laboratoire du Prof

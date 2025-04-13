@@ -1,0 +1,10 @@
+Name       = Multitype UI
+Version    = 1.3
+Essentials = 21.1
+Optional   = FRLG Summary Screen,2.0
+Optional   = Emerald Summary Screen,1.0
+Optional   = BW Summary Screen,1.0
+Optional   = BW Storage System,1.0
+Optional   = [DBK] Terastallization,1.0.1
+Optional   = [MUI] Pokedex Data Page,1.0.5
+Credits    = Mathoo Rot8er_ConeX

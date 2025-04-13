@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map086]
+\bBonjour ! Tu es là pour défier le champion d'arène ?
+\bBonjour ! Tu es là pour défier le champion d'arène ?
+\bC'est Benjamin, le champion d'arène de type Plante ! Tu devra faire attention a ses pokémons. Ils sont assez résistant !
+\bC'est Benjamin, le champion d'arène de type Plante !  Tu devra faire attention a ses pokémons. Ils sont assez résistant ! 
+\bLe mieux ? Des attaques de types Feu ou Vol contre lui pour l'afflaibir un max !
+\bLe mieux ? Des attaques de types Feu ou Vol contre lui pour l'afflaibir un max ! 
+\bBienvenue jeune dresseur ! Tu es là pour ton 1er combat d'arène ? Je suis partant !
+\bBienvenue jeune dresseur ! Tu es là pour ton 1er combat d'arène ? Je suis partant ! 
+\bPrend le badge Gland ! Il est à toi !
+\bPrend le badge Gland ! Il est à toi ! 
+\bPrend aussi cette CT Vampigraine !
+\bPrend aussi cette CT Vampigraine ! 
+\bBien joué à toi ! Bonne continuation dans ta quête !
+\bBien joué à toi ! Bonne continuation dans ta quête !
+\bAlors, comment ce passe ta quête d'aventure ?
+\bAlors, comment ce passe ta quête d'aventure ?

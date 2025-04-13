@@ -1,0 +1,31 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[RISKARD,1]
+FormName = Carreau
+BaseStats = 55,55,65,55,55,70
+HiddenAbilities = COMPETITIVE
+Pokedex = Riskard est une carte ensorcelée qui change de forme selon son humeur. On dit que celui qui la tire à l’envers subit une terrible malédiction.
+#-------------------------------
+[RISKARD,2]
+FormName = Tréfles
+BaseStats = 55,70,55,55,65,55
+HiddenAbilities = MOXIE
+Pokedex = Riskard est une carte ensorcelée qui change de forme selon son humeur. On dit que celui qui la tire à l’envers subit une terrible malédiction.
+#-------------------------------
+[RISKARD,3]
+FormName = Pique
+BaseStats = 55,70,65,55,55,55
+HiddenAbilities = DEFIANT
+Pokedex = Riskard est une carte ensorcelée qui change de forme selon son humeur. On dit que celui qui la tire à l’envers subit une terrible malédiction.
+#-------------------------------
+[DECKALL,1]
+FormName = Carreau
+BaseStats = 65,65,105,90,120,65
+#-------------------------------
+[DECKALL,2]
+FormName = Tréfles
+BaseStats = 65,120,65,90,105,65
+#-------------------------------
+[DECKALL,3]
+FormName = Pique
+BaseStats = 65,120,105,90,65,65

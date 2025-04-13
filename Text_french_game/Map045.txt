@@ -1,0 +1,44 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map045]
+The rebuilt World Tournament is amazing! I'm sure you'll have a blast facing off against all the trainers here.
+The rebuilt World Tournament is amazing! I'm sure you'll have a blast facing off against all the trainers here.
+This board seems to show total victories and defeats in the World Tournament.
+This board seems to show total victories and defeats in the World Tournament.
+\l[3]Statistics for \pn: \nTotal victories: \v[1] \nTotal defeats: \v[2]
+\l[3]Statistics for \pn: \nTotal victories: \v[1] \nTotal defeats: \v[2]
+Would you like an explanation of how the Pokémon World Tournament works?
+Would you like an explanation of how the Pokémon World Tournament works?
+Here in the Pokémon World Tournament, you select a specific tournament to take part in.
+Here in the Pokémon World Tournament, you select a specific tournament to take part in. 
+Each tournament consists of three rounds. If you clear all three rounds you are awarded with Battle Points.
+Each tournament consists of three rounds. If you clear all three rounds you are awarded with Battle Points.
+The amount of Battle Points you earn for winning is dependant on the relevant tournament and your win streak within that tournament.
+The amount of Battle Points you earn for winning is dependant on the relevant tournament and your win streak within that tournament.
+Each tournament has its own set of rules, such as restrictions on Pokémon, setting all battlers to a specific level.
+Each tournament has its own set of rules, such as restrictions on Pokémon, setting all battlers to a specific level.
+Each tournament is broken into different challenge modes.
+Each tournament is broken into different challenge modes.
+Singles, which allows you to take 3 Pokémon into a one on one battle against the other trainers.
+Singles, which allows you to take 3 Pokémon into a one on one battle against the other trainers.
+Doubles, which allows you to take 4 Pokémon into a two on two battle against the other trainers.
+Doubles, which allows you to take 4 Pokémon into a two on two battle against the other trainers.
+Full, which allows you to take all of your Pokémon into a one on one battle against the other trainers.
+Full, which allows you to take all of your Pokémon into a one on one battle against the other trainers.
+And Sudden Death, where you may only bring in one Pokémon to battle against each trainer.
+And Sudden Death, where you may only bring in one Pokémon to battle against each trainer.
+And finally, money and experience is not gained while in a tournament.
+And finally, money and experience is not gained while in a tournament.
+If you ever need a reminder of how the tournaments work, I'm always here to help!
+If you ever need a reminder of how the tournaments work, I'm always here to help!
+I travelled across the seas just to participate in the World Tournament.
+I travelled across the seas just to participate in the World Tournament.
+I can't wait to challenge all the powerful trainers here.
+I can't wait to challenge all the powerful trainers here.
+We just finished work on the infrastructure of the Tournament Hall. Don't you think it's amazing?
+We just finished work on the infrastructure of the Tournament Hall. Don't you think it's amazing?
+Yes
+Yes
+No
+No

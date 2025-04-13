@@ -1,0 +1,213 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[SHADOWEND]
+Name = Shadow End
+Type = SHADOW
+Category = Special
+Power = 120
+Accuracy = 60
+TotalPP = 0
+Target = NearOther
+FunctionCode = UserLosesHalfHP
+Flags = Contact,CanProtect
+Description = Une attaque bélier auréolée d'ombre qui rebondit également sur l'utilisateur.
+#-------------------------------
+[SHADOWSTORM]
+Name = Shadow Storm
+Type = SHADOW
+Category = Special
+Power = 95
+Accuracy = 100
+TotalPP = 0
+Target = AllFoes
+FunctionCode = DoublePowerIfTargetUnderwater
+Flags = CanProtect
+Description = Une aura d'ombre est utilisée pour créer une tornade vicieuse.
+#-------------------------------
+[SHADOWBLAST]
+Name = Shadow Blast
+Type = SHADOW
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,HighCriticalHitRate
+Description = Une lame d'air maléfique est formée à l'aide d'une aura d'ombre.
+#-------------------------------
+[SHADOWBOLT]
+Name = Shadow Bolt
+Type = SHADOW
+Category = Special
+Power = 75
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = ParalyzeTarget
+Flags = CanProtect
+EffectChance = 10
+Description = Une attaque d'ombre qui peut paralyser.
+#-------------------------------
+[SHADOWBREAK]
+Name = Shadow Break
+Type = SHADOW
+Category = Physical
+Power = 75
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect
+Description = Une attaque de bélier fracassante avec une aura d'ombre.
+#-------------------------------
+[SHADOWCHILL]
+Name = Shadow Chill
+Type = SHADOW
+Category = Special
+Power = 75
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = FreezeTarget
+Flags = CanProtect
+EffectChance = 10
+Description = Attaques de glace ombrageuses qui peuvent geler.
+#-------------------------------
+[SHADOWFIRE]
+Name = Shadow Fire
+Type = SHADOW
+Category = Special
+Power = 75
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = BurnTarget
+Flags = CanProtect
+EffectChance = 10
+Description = Une attaque de boule de feu ombrageuse qui peut infliger une brûlure.
+#-------------------------------
+[SHADOWRAVE]
+Name = Shadow Rave
+Type = SHADOW
+Category = Special
+Power = 70
+Accuracy = 100
+TotalPP = 0
+Target = AllFoes
+FunctionCode = None
+Flags = CanProtect
+Description = Une aura d'ombre dans le sol est utilisée pour lancer des pics.
+#-------------------------------
+[SHADOWRUSH]
+Name = Shadow Rush
+Type = SHADOW
+Category = Physical
+Power = 55
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect
+Description = Un mouvement imprudent qui blesse également l'utilisateur.
+#-------------------------------
+[SHADOWWAVE]
+Name = Shadow Wave
+Type = SHADOW
+Category = Special
+Power = 50
+Accuracy = 100
+TotalPP = 0
+Target = AllFoes
+FunctionCode = None
+Flags = CanProtect
+Description = Des vagues d'auras ombrageuses sont libérées pour infliger des dégâts.
+#-------------------------------
+[SHADOWBLITZ]
+Name = Shadow Blitz
+Type = SHADOW
+Category = Physical
+Power = 40
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect
+Description = Un Pokémon lance ce tacle tout en projetant une aura d'ombre.
+#-------------------------------
+[SHADOWDOWN]
+Name = Shadow Down
+Type = SHADOW
+Category = Status
+Accuracy = 100
+TotalPP = 0
+Target = AllFoes
+FunctionCode = LowerTargetDefense2
+Flags = CanProtect
+Description = Une aura d'ombre réduit fortement la Défense de l'ennemi.
+#-------------------------------
+[SHADOWHALF]
+Name = Shadow Half
+Type = SHADOW
+Category = Status
+Accuracy = 100
+TotalPP = 0
+Target = AllBattlers
+FunctionCode = AllBattlersLoseHalfHPUserSkipsNextTurn
+Flags = CanProtect
+Description = L'énergie d'une aura d'ombre réduit de moitié les PV de tout le monde.
+#-------------------------------
+[SHADOWHOLD]
+Name = Shadow Hold
+Type = SHADOW
+Category = Status
+Accuracy = 100
+TotalPP = 0
+Target = AllFoes
+FunctionCode = TrapTargetInBattle
+Flags = CanProtect
+Description = Le Pokémon adverse ne peut pas s'échapper.
+#-------------------------------
+[SHADOWMIST]
+Name = Shadow Mist
+Type = SHADOW
+Category = Status
+Accuracy = 100
+TotalPP = 0
+Target = AllFoes
+FunctionCode = LowerTargetEvasion2
+Flags = CanProtect
+Description = Une aura d'ombre coupe net la capacité d'évasion de l'ennemi.
+#-------------------------------
+[SHADOWPANIC]
+Name = Shadow Panic
+Type = SHADOW
+Category = Status
+Accuracy = 90
+TotalPP = 0
+Target = AllFoes
+FunctionCode = ConfuseTarget
+Flags = CanProtect,Sound
+Description = Une aura d'ombre émane pour semer la confusion dans l'esprit de l'ennemi.
+#-------------------------------
+[SHADOWSHED]
+Name = Shadow Shed
+Type = SHADOW
+Category = Status
+Accuracy = 100
+TotalPP = 0
+Target = BothSides
+FunctionCode = RemoveAllScreens
+Flags = CanProtect
+Description = A shadowy aura eliminates Reflect and similar moves.
+#-------------------------------
+[SHADOWSKY]
+Name = Shadow Sky
+Type = SHADOW
+Category = Status
+Accuracy = 100
+TotalPP = 0
+Target = BothSides
+FunctionCode = StartShadowSkyWeather
+Flags = CanProtect
+Description = La noirceur blesse tous les Pokémon sauf les Pokémon Obscurs pendant 5 tours.

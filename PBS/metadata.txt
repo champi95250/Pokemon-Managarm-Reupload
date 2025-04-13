@@ -1,0 +1,93 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 1000
+StartItemStorage = POTION
+Home = 81,6,7,2
+StorageCreator = Billy
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Lucas
+WalkCharset = NPC_198_Lucas
+RunCharset = NPC_198_Lucas_run
+CycleCharset = NPC_198_Lucas_bike
+SurfCharset = NPC_198_Lucas_surf
+DiveCharset = NPC_198_Lucas_surf
+FishCharset = NPC_198_Lucas_fishing
+SurfFishCharset = NPC_198_Lucas_fishing
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_dawn
+WalkCharset = NPC_201_Dawn
+RunCharset = NPC_201_Dawn_run
+CycleCharset = NPC_201_Dawn_bike
+SurfCharset = NPC_201_Dawn_surf
+DiveCharset = NPC_201_Dawn_surf
+FishCharset = NPC_201_Dawn_fishing
+SurfFishCharset = NPC_201_Dawn_fishing
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_ETHAN
+WalkCharset = NPC_203_Ethan
+RunCharset = NPC_203_Ethan_run
+CycleCharset = NPC_203_Ethan_bike
+SurfCharset = NPC_203_Ethan_surf
+DiveCharset = NPC_203_Ethan_surf
+FishCharset = NPC_203_Ethan_fishing
+SurfFishCharset = NPC_203_Ethan_fishing
+#-------------------------------
+[4]
+TrainerType = POKEMONTRAINER_lyra
+WalkCharset = NPC_206_Lyra
+RunCharset = NPC_206_Lyra_run
+CycleCharset = NPC_206_Lyra_bike
+SurfCharset = NPC_206_Lyra_surf
+DiveCharset = NPC_206_Lyra_surf
+FishCharset = NPC_206_Lyra_fishing
+SurfFishCharset = NPC_206_Lyra_fishing
+#-------------------------------
+[5]
+TrainerType = POKEMONTRAINER_Aqua
+WalkCharset = NPC_C01_Aqua
+RunCharset = NPC_C01_Aqua_run
+CycleCharset = NPC_C01_Aqua_bike
+SurfCharset = NPC_206_Lyra_surf
+DiveCharset = NPC_206_Lyra_surf
+FishCharset = NPC_C01_Aqua_Fish
+SurfFishCharset = NPC_C01_Aqua_fish
+#-------------------------------
+[6]
+TrainerType = POKEMONTRAINER_Fire
+WalkCharset = POKEMONTRAINER_Fire
+RunCharset = POKEMONTRAINER_Fire_run
+CycleCharset = POKEMONTRAINER_Fire_Bike
+SurfCharset = NPC_203_Ethan_surf
+DiveCharset = NPC_203_Ethan_surf
+FishCharset = NPC_203_Ethan_fishing
+SurfFishCharset = NPC_203_Ethan_fishing
+#-------------------------------
+[7]
+TrainerType = POKEMONTRAINER_Brendan
+WalkCharset = trProtag_BoyRubisWalk
+RunCharset = trProtag_BoyRubisRun
+CycleCharset = trProtag_BoyRubisBike
+SurfCharset = trProtag_BoyRubisSurf
+DiveCharset = trProtag_BoyRubisSurf
+FishCharset = trProtag_BoyRubisFish_offset
+SurfFishCharset = trProtag_BoyRubisFish_offset
+#-------------------------------
+[8]
+TrainerType = POKEMONTRAINER_May
+WalkCharset = trProtag_GirlMayWalk
+RunCharset = trProtag_GirlMayRun
+CycleCharset = trProtag_GirlMayBike
+SurfCharset = trProtag_GirlMaySurf
+DiveCharset = trProtag_GirlMaySurf
+FishCharset = trProtag_GirlMayFish_offset
+SurfFishCharset = trProtag_GirlMayFish_offset

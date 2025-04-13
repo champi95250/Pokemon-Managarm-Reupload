@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map087]
+\rTu vois mon Lixy ? C'est devenue mon meilleurs ami ! Je l'ai trouver sur la Route 1 grâce au Pokéradar
+\rTu vois mon Lixy ? C'est devenue mon meilleurs ami ! Je l'ai trouver sur la Route 1 grâce au Pokéradar
+\rJe pense plus m'en servir. Prend le.
+\rJe pense plus m'en servir. Prend le.
+\rLe pokeradar permets de voir des pokémon invisible à l'état naturel
+\rLe pokeradar permets de voir des pokémon invisible à l'état naturel 

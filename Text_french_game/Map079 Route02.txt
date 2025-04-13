@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map079]
+\bLa fille qui se trouve plus loin m'as battue assez facilement. Elle à l'air bien entrainer !
+\bLa fille qui se trouve plus loin m'as battue assez facilement. Elle à l'air bien entrainer ! 
+\rJe suis habitué à ce lieu, d'ailleurs, c'est ici que j'ai rencontré mon meilleur ami !
+\rJe suis habitué à ce lieu, d'ailleurs, c'est ici que j'ai rencontré mon meilleur ami ! 
+\rAspicot, Chenipan ... je ne sais pas lequel capturer ! Oh ! Un Chenipotte !
+\rAspicot, Chenipan ... je ne sais pas lequel capturer !  Oh ! Un Chenipotte !
+\bHey toi ! Prêt pour un combat ?!
+\bHey toi ! Prêt pour un combat ?! 
+\bJe doit encore apprendre !
+\bJe doit encore apprendre ! 
+\bCette forêt est une mine d'or pour les pokémon Insect !
+\bCette forêt est une mine d'or pour les pokémon Insect ! 
+\bJe suis un des gardiens de cette route.
+\bJe suis un des gardiens de cette route.
+\bLe passage mêne dans des lieux d'entrainement très dur. Je ne pense pas que tu aie le niveau pour rentré ici.
+\bLe passage mêne dans des lieux d'entrainement très dur. Je ne pense pas que tu aie le niveau pour rentré ici. 
+\rJe suis une lady perdu ! Tu m'aide ?
+\rJe suis une lady perdu ! Tu m'aide ?

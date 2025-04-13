@@ -1,0 +1,54 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map085]
+L'arbre est vide
+L'arbre est vide
+\rCe mec est completement fou des chenipans ! Mais tu savais qu'un bon Coup d'Boule pouvais faire descendre tout les chenipan de l'arbre Orange là ?
+\rCe mec est completement fou des chenipans ! Mais tu savais qu'un bon Coup d'Boule pouvais faire descendre tout les chenipan de l'arbre Orange là ?
+\rTiens, si un pokémon peux le faire, j'peux lui apprendre le Coup d'Boule du siecle !
+\rTiens, si un pokémon peux le faire, j'peux lui apprendre le Coup d'Boule du siecle ! 
+\rTu veux l'apprend à un autre ?
+\rTu veux l'apprend à un autre ?
+\bHello! I'm Kurt!
+\bHello! I'm Kurt!
+\bI specialise in turning Apricorns into Poké Balls.
+\bI specialise in turning Apricorns into Poké Balls.
+\bIf you like, I can convert one of yours into a Poké Ball.
+\bIf you like, I can convert one of yours into a Poké Ball.
+\bHello again.
+\bHello again.
+\bDo you have an Apricorn for me?
+\bDo you have an Apricorn for me?
+\bWhich Apricorn would you like me to convert?
+\bWhich Apricorn would you like me to convert?
+\bLet me know when you want me to convert an Apricorn for you.
+\bLet me know when you want me to convert an Apricorn for you.
+\bOkay. I'll turn your \v[3] into a Poké Ball for you.
+\bOkay. I'll turn your \v[3] into a Poké Ball for you.
+\bI should be finished by tomorrow.
+\bI should be finished by tomorrow.
+\bCome back when you have an Apricorn for me.
+\bCome back when you have an Apricorn for me.
+\bI've been waiting for you. I've completed the Poké Ball you asked me to make.
+\bI've been waiting for you. I've completed the Poké Ball you asked me to make.
+\bYou have no room left. Make room, then come see me.
+\bYou have no room left. Make room, then come see me.
+\bI tried making a Poké Ball out of what you gave me, but it didn't work.
+\bI tried making a Poké Ball out of what you gave me, but it didn't work.
+\bSorry.
+\bSorry.
+\bI'm still working on your Apricorn. Come back later.
+\bI'm still working on your Apricorn. Come back later.
+\rC'est mon petit coin secret, ne dit a personne que je suis là !
+\rC'est mon petit coin secret, ne dit a personne que je suis là ! 
+\bJ'aime trop ! Ces chenipans sont trop beau !
+\bJ'aime trop ! Ces chenipans sont trop beau !
+Oui
+Oui
+Non
+Non
+Yes
+Yes
+No
+No

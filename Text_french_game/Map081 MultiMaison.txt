@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map081]
+\rJ'aime tellement Luminelle. C'est un beau village.
+\rJ'aime tellement Luminelle. C'est un beau village.
+\rTout les ans, il y a un festival. Les pokémons sauvage s'illumine dans la ville et c'est un spectacle à ne pas louper.
+\rTout les ans, il y a un festival. Les pokémons sauvage s'illumine dans la ville et c'est un spectacle à ne pas louper.

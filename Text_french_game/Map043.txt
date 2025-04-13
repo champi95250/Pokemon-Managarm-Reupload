@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map043]
+\bTu savais que à certains endroit, des pokémon pouvais être plus fort le jour ou la nuit.
+\bTu savais que à certains endroit, des pokémon pouvais être plus fort le jour ou la nuit.
+\bJe sais que la nuit, les pokémon sont légèrement plus fort ici.
+\bJe sais que la nuit, les pokémon sont légèrement plus fort ici.
+\bViens te battre !
+\bViens te battre !
+\bJe doit encore apprendre !
+\bJe doit encore apprendre ! 

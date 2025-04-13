@@ -1,0 +1,89 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Type = GARDE
+Name = BRADY
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = I AM STRONG AREN'T I ?
+EndSpeechLose = WHAT ? BUT HOW ?
+PokemonNos = 0,1,2,3,4,5,6,7,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65
+#-------------------------------
+[001]
+Type = GARDE
+Name = CONNER
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = A WIN IS JUST AWESOME
+EndSpeechLose = DARN ... LOSING DOES BUG ME
+PokemonNos = 0,1,2,3,4,5,6,7,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65
+#-------------------------------
+[002]
+Type = GARDE
+Name = BRADLEY
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = HAHAHA ! SEE YA LATER !
+EndSpeechLose = TOMORROW IS WHEN WE REALLY BATTLE
+PokemonNos = 0,1,2,3,4,5,6,7,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65
+#-------------------------------
+[003]
+Type = GARDE
+Name = CYBIL
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = IT'S SAD TO SEE YOU STRUGGLE
+EndSpeechLose = THIS CAN'T BE HAPPENING TO ME !
+PokemonNos = 0,1,2,3,4,5,6,7,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65
+#-------------------------------
+[004]
+Type = GARDE
+Name = RODETTE
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = IT'S INCREDIBLE HOW STRONG I AM !
+EndSpeechLose = OH
+PokemonNos = 0,1,2,3,4,5,6,7,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65
+#-------------------------------
+[005]
+Type = GARDE
+Name = PEGGY
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = HAHAHA !! I AM LOLLING !
+EndSpeechLose = I AM FEELING SAD THANKS TO YOU
+PokemonNos = 0,1,2,3,4,5,6,7,10,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65
+#-------------------------------
+[006]
+Type = GARDE
+Name = KEITH
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = YOU DON'T STUDY ENOUGH ...
+EndSpeechLose = I NEED TO STUDY MORE ...
+PokemonNos = 66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109
+#-------------------------------
+[007]
+Type = GARDE
+Name = GRAYSON
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = YOU'RE DONE AREN'T YOU ?
+EndSpeechLose = WE WERE LIKE TOYS TO YOU
+PokemonNos = 66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109
+#-------------------------------
+[008]
+Type = GARDE
+Name = GLENN
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = COOL ! THAT'S WHAT I AM
+EndSpeechLose = I AM NOT GOING TO BE COOL
+PokemonNos = 66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109
+#-------------------------------
+[009]
+Type = GARDE
+Name = LILIANA
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = THERE IS NO SURRENDER IN ME
+EndSpeechLose = THAT'S IT ... I GIVE UP ...
+PokemonNos = 66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109
+#-------------------------------
+[010]
+Type = GARDE
+Name = ELISE
+BeginSpeech = AH QUE COUCOU BOB !
+EndSpeechWin = I WIN ! FATHER I'VE WON
+EndSpeechLose = FORGIVE ME FATHER FOR I'VE LOST
+PokemonNos = 66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109

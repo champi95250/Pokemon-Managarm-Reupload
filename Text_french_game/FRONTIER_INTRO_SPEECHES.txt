@@ -1,0 +1,6 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[FRONTIER_INTRO_SPEECHES]
+JE NE PERDRAI JAMAIS !
+JE NE PERDRAI JAMAIS !

@@ -1,0 +1,64 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map022]
+<ac>\c[8]\l[3]Merci de jouer à ce jeu et de reporter le moindre bug
+<ac>\c[8]\l[3]Merci de jouer à ce jeu et de reporter le moindre bug
+\bBonjour ! Désolé de t'avoir fait attendre !
+\bBonjour ! Désolé de t'avoir fait attendre !
+\bBienvenue dans le monde des Pokémon.
+\bBienvenue dans le monde des Pokémon.
+\bJe m'appelle Chen.
+\bJe m'appelle Chen.
+\bLes gens m'appellent le Professeur Pokémon.
+\bLes gens m'appellent le Professeur Pokémon.
+\bSi tu as besoin d'aide, je suis tout à fait capable de t'en donner.
+\bSi tu as besoin d'aide, je suis tout à fait capable de t'en donner.
+\bBon, alors, sans plus attendre...
+\bBon, alors, sans plus attendre...
+<ac>\c[0]\l[7]At times, you will be challenged\n by others to a battle.\n At other times, wild creatures\nmay stand in your way.\n\n By overcoming such hurdles,\nyou will gain great power.
+<ac>\c[0]\l[7]At times, you will be challenged\n by others to a battle.\n At other times, wild creatures\nmay stand in your way.\n\n By overcoming such hurdles,\nyou will gain great power.
+<ac>\c[0]\l[2]However, your adventure is not\n solely about becoming powerful.
+<ac>\c[0]\l[2]However, your adventure is not\n solely about becoming powerful.
+\bCe monde est habité par des créatures que nous appelons Pokémon.
+\bCe monde est habité par des créatures que nous appelons Pokémon.
+\bLes gens et les Pokémon vivent ensemble en se soutenant mutuellement.
+\bLes gens et les Pokémon vivent ensemble en se soutenant mutuellement.
+\bCertaines personnes jouent avec les Pokémon, d'autres se battent avec eux.
+\bCertaines personnes jouent avec les Pokémon, d'autres se battent avec eux.
+\bMais nous ne savons pas encore tout sur les Pokémon.
+\bMais nous ne savons pas encore tout sur les Pokémon.
+\bIl reste encore de nombreux mystères à résoudre.
+\bIl reste encore de nombreux mystères à résoudre.
+\bC'est pourquoi j'étudie les Pokémon chaque jour.
+\bC'est pourquoi j'étudie les Pokémon chaque jour.
+\bEs-tu un garçon ou une fille ?
+\bEs-tu un garçon ou une fille ?
+\bEt ton prénom ?
+\bEt ton prénom ?
+\bTu es donc \PN?
+\bTu es donc \PN?
+\bQuel est ton prénom ?
+\bQuel est ton prénom ?
+\bVotre propre histoire Pokémon est sur le point de commencer.
+\bVotre propre histoire Pokémon est sur le point de commencer.
+\bVous devez aussi choisir votre pokémon de départ !
+\bVous devez aussi choisir votre pokémon de départ !
+\bVous vivrez des moments formidables et ferez face à des défis difficiles.
+\bVous vivrez des moments formidables et ferez face à des défis difficiles.
+\bUne aventure pleine de rêves et d'aventures avec Pokémon vous attend !
+\bUne aventure pleine de rêves et d'aventures avec Pokémon vous attend ! 
+\b\PN, Tu doit aussi choisir comment se déroulera ton aventure et les règles que tu fixera.
+\b\PN, Tu doit aussi choisir comment se déroulera ton aventure et les règles que tu fixera.
+\b\PN, es-tu prêt ?
+\b\PN, es-tu prêt ?
+Controls
+Controls
+L'aventure
+L'aventure
+Pas besoin
+Pas besoin
+Yes
+Yes
+No
+No

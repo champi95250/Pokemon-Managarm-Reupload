@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map042]
+\bMa femme ne sort que le soir
+\bMa femme ne sort que le soir
+\bElle préfère admirer le bassin le soir
+\bElle préfère admirer le bassin le soir
+\rMon Homme ne sort que en journée
+\rMon Homme ne sort que en journée
+\rIl rate la beauté du lac de cette ville
+\rIl rate la beauté du lac de cette ville
+\rJ'aime tellement cette ville et m'y entrainer !
+\rJ'aime tellement cette ville et m'y entrainer !
+\rCe te dit de t'entrainer ?
+\rCe te dit de t'entrainer ?
+\bMa compagne est fatiguer de son entrainement, reviens demain dans la journée !
+\bMa compagne est fatiguer de son entrainement, reviens demain dans la journée !
+\bMon Machop passe son temps à casser des cailloux !
+\bMon Machop passe son temps à casser des cailloux !
+Oui
+Oui
+Non
+Non

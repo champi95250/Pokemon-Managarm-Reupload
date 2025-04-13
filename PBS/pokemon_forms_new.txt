@@ -1,0 +1,11 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[DRIFBLIM,1]
+FormName = Mega Drifblim
+MegaStone = DRIFBLITINE
+BaseStats = 172,85,65,70,105,65
+BaseExp = 256
+Abilities = THERMALEXCHANGE
+Height = 2.0
+Weight = 32.0
+Generation = 6

@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map082]
+You received a Pokégear and Running Shoes.
+You received a Pokégear and Running Shoes.
+\PN received a Pokédex!
+\PN received a Pokédex!
+You already have a Pokédex.
+You already have a Pokédex.

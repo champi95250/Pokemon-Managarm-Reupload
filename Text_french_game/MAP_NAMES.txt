@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MAP_NAMES]
+Route 02
+Route 02
+MultiMaison
+MultiMaison
+Laboratoire
+Laboratoire
+PkmMart Floralie
+PkmMart Floralie
+Verdaville
+Verdaville
+Luminelle
+Luminelle
+Route 01
+Route 01
+Floraville
+Floraville

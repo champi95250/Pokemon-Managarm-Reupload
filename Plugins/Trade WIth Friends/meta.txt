@@ -1,0 +1,73 @@
+Name         = Trade With Friends
+Version      = 1.0
+Essentials   = 20, 20.1, 21, 21.1
+Website      = https://www.reliccastle.com/resources/1430/
+Credits      = Dr.Doom76
+#===============================================================================
+# Installation
+#===============================================================================
+# To install this plugin, extract the folders file into your game root folder.
+# 
+#===============================================================================
+# How to use
+#===============================================================================
+# Call with method pbTradeWithFriends
+#
+# This will pop a menu with several options.
+#
+# The Trading Option will initiate a trade. 
+# It will prompt the user to select a Pokemon.
+# Upon selection, the Pokemon will be stored into a $player variable for later,
+#	and the Pokemon data will be encrypted and stored into a file in the game dir / trade folder.
+# This is the file that will be given to the "friend" for trading.
+# "Deletes" the Pokemon.
+#
+# The Retrieval Option is to get the Pokemon coming from a trade file.
+# It will search all the folders in the game directory to find the proper file.
+# It takes the file and decrypts it into readable data for the trade.
+# Before trade, it will prompt the user to select one of their Pokemon for trade.
+# After selection, it will continue the trade. Takes the data from the $player variable
+# 	and uses that for a "proper" trade scene.
+# "Adds" the Pokemon.
+#
+# The Clear Option is for use when your "friend" doesn't trade back. Only one trade can be initiated
+#	 at a time, so I've added this to prevent a lockout.
+# There's clear explaination and warnings before allowing player to proceed. This will essentially
+#	cause the player to loose the stored Pokemon.
+#
+# The Explanation Option it a submenu that will explain all menu options in more detail.
+#
+#===============================================================================
+# In Game Process
+#===============================================================================
+# After calling the method, the player would start the trade.
+# The Pokemon will be "transferred" to a file.
+# The file will be given to a friend.
+# The friend will receive the Pokemon and select one of theirs to send back.
+# The second file will be sent to the first player.
+# The first player will then receive the second Pokemon.
+
+#===============================================================================
+# Features
+#===============================================================================
+# Only one trade can be initiated at a time. This will allow the trade scene to happen properly.
+# *Later I might consider changing it into an array to store multiple Pokemon.
+# The script has several warning features that will prompt users for overwritting of files, etc.
+# It will scan through a players party and PC to ensure the Pokemon has not already been received.(To 
+# 	prevent calling the same trade twice) 
+# 	The scan will compare Owner ID, Species, Obtain Level, and Obtain Map.
+# Data transferred into the file in encrypted so it cannot be easily modified or read. This is to 
+#	prevent cheating. 
+# Currently only calls the Party screen. Later I will probably add calling from PC.
+# The script has been broken up into several smaller methods, instead of bigger ones for ease of 
+#	readability and modification.
+# Players can trade between different games. 
+#	This seems pretty interesting, not sure if it's a good thing or a bad thing, yet.
+# Since trade between games is possible, the script will also check for a valid species before
+#	continuing with the trade.
+#===============================================================================
+# Other notes
+#===============================================================================
+# This is a work in progress. I plan on cleaning up and optimizing the code.
+# I've tried to put in a fail-safe for every issue I could think of, but I could have missed something.
+# 	If you run into any issue or have any suggestions, don't hesitate to let me know!

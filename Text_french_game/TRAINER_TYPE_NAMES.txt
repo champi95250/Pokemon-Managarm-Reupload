@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Pokémon Trainer
+Pokémon Trainer
+Gamin
+Gamin
+Éleveuse
+Éleveuse
+Entraineuse
+Entraineuse
+Montagnard
+Montagnard
+Champion
+Champion
+Canon
+Canon
+Lady
+Lady
+Richard
+Richard
+Fermier
+Fermier
+Nageuse
+Nageuse
+Nageur
+Nageur
+Flotteur
+Flotteur
+Flotteusse
+Flotteusse

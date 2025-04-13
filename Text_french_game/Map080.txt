@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map080]
+Prêt pour l'arène ?
+Prêt pour l'arène ?
+\rCome back another time.
+\rCome back another time.
+Yes
+Yes
+No
+No

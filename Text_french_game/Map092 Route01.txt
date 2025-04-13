@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map092]
+\rC'est un belle endroit tu ne trouve pas ?
+\rC'est un belle endroit tu ne trouve pas ?
+\rTellement paisible qu'il n'y as pas de dresseurs sur cette route !
+\rTellement paisible qu'il n'y as pas de dresseurs sur cette route !
+\bCette route fait le lien entre Luminelle et Floralie. Des villes tout deux exceptionnel !
+\bCette route fait le lien entre Luminelle et Floralie.  Des villes tout deux exceptionnel !
+\bFait attention ! Dans les hautes herbes se cache des pokémon sauvage !
+\bFait attention ! Dans les hautes herbes se cache des pokémon sauvage ! 
