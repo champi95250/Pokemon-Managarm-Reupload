@@ -1596,7 +1596,7 @@ Pokemon = GRAPPLOCT,72
 Pokemon = SALAZZLE,72
 #------------------------------- ROUTE VICTOIRE
 [TOPDRESSEUR03,Benjamin]
-LoseText = Pas mal... Peut-être que t'as une chance à la Ligue. Mais garde ça en tête : chaque combat compte.
+LoseText = Pas mal... Tu sais te battre. 
 Pokemon = RAPIDASH,71
 Pokemon = GYARADOS,72
 Pokemon = LUCARIO,72
@@ -1810,3 +1810,25 @@ Pokemon = DECKALL_2,73
     Moves = SHADOWRUSH
     EV = 8,15,0,15,10,25
     Shadow = true
+#------------------------------- Route 13
+[GARDE,Nashor]
+LoseText = Tu es digne de passer. 
+Items = MEGARING,DYNAMAXBAND
+Pokemon = BRAVIARY_1,78
+    IV = 31,31,31,31,31,31
+    NoDynamax = true
+    EV = 200,0,40,0,0,40
+Pokemon = GALLADE,82
+    Item = GALLADITE
+    NoDynamax = true
+    IV = 31,31,31,31,31,31
+Pokemon = AEGISLASH, 80
+    NoDynamax = true
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGAPULT,80
+    NoDynamax = true
+    IV = 31,31,31,31,31,31
+Pokemon = URSHIFU,80
+    Dynamax = true
+    Gigantamax = true
+    IV = 31,31,31,31,31,31

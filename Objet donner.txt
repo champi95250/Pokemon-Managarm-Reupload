@@ -1,0 +1,1 @@
+Plaque = Fée, Sol, Eau, Insect, Glace
