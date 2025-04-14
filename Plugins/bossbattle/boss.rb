@@ -245,6 +245,69 @@ SALAMECHE_BOSS = [
   }
 ]
 
+CHIMERE_BOSS = [
+  {
+    species: :NIHILEGO,
+    tera:    :POISON,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :BUZZWOLE,
+    tera:    :FIGHTING,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :PHEROMOSA,
+    tera:    :FIGHTING,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :XURKITREE,
+    tera:    :ELECTRIC,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :CELESTEELA,
+    tera:    :STEEL,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :KARTANA,
+    tera:    :STEEL,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :GUZZLORD,
+    tera:    :DRAGON,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :POIPOLE,
+    tera:    :POISON,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :STAKATAKA,
+    tera:    :STEEL,
+    level:   80,
+    moves:   []
+  },
+  {
+    species: :BLACEPHALON,
+    tera:    :FIRE,
+    level:   80,
+    moves:   []
+  }
+]
+
 #===========================================================================
 # Méthode principale d'affrontement boss.
 #
@@ -301,6 +364,10 @@ def pbBossEncounter(boss_data, difficulty)
     hp_multiplier   = 4.0
     stat_multiplier = 2.0
     boost_interval  = 4
+  when 6
+    hp_multiplier   = 4.0
+    stat_multiplier = 2.0
+    boost_interval  = 4
   else
     hp_multiplier   = 1.0
     stat_multiplier = 1.0
@@ -317,8 +384,28 @@ def pbBossEncounter(boss_data, difficulty)
   setBattleRule("2v1")
   setBattleRule("captureME", "XD 95 Fanfare - Victory")
   setBattleRule("setSlideSprite", "still")
-  setBattleRule("backdrop", "elite4")
+  if difficulty == 6 
+    setBattleRule("backdrop", "elite8")
+  else
+    setBattleRule("backdrop", "elite4")
+  end
   setBattleRule("outcome", 42)
+  if difficulty == 6 
+  setBattleRule("editWildPokemon", {
+    :obtain_text    => "Raid",
+    :species        => boss_data[:species],
+    :form           => boss_data[:form],
+    :shiny          => shinytrue, #DERNIER MODIF ICI
+    :level          => boss_level,
+    :hp_level       => hp_multiplier,
+    :super_shiny    => false,   # ou true si souhaité
+    :immunities     => [:OHKO, :ESCAPE, :SLEEP, :BURN, :ATTRACT, :INDIRECT],
+    :iv             => 31,
+    :terastal_able  => false,
+    :tera_type      => boss_data[:tera],
+    :terastallized  => false,
+  })
+  else
   setBattleRule("editWildPokemon", {
     :obtain_text    => "Raid",
     :species        => boss_data[:species],
@@ -333,6 +420,7 @@ def pbBossEncounter(boss_data, difficulty)
     :tera_type      => boss_data[:tera],
     :terastallized  => true,
   })
+  end
   # Construire le hash du midbattleScript
   midbattle_script = {
     "RoundStartCommand_1_foe" => {
@@ -466,6 +554,11 @@ def pbBossItemDrops(difficulty)
       {item: :GENIUSFEATHER, quantity_range: [1, 3], chance: 66},
       {item: :CLEVERFEATHER, quantity_range: [1, 3], chance: 66},
       {item: :SWIFTFEATHER, quantity_range: [1, 3], chance: 66},
+    ]
+  when 6
+    [
+      {item: :EXPCANDYXL, quantity_range: [4, 8], chance: 100},
+      {item: :EXPCANDYXL, quantity_range: [2, 5], chance: 100},
     ]
   else
     []

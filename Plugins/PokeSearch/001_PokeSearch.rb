@@ -57,7 +57,7 @@ class PokeSearch_Scene
     @current_mon = nil
     @current_berry = nil
     @current_repel = nil
-    @average_level = 1
+    @average_level = 10
     @disposed = false
   end
 
@@ -245,10 +245,13 @@ class PokeSearch_Scene
   def selectMon
     commands = []
     mons = []
-    if !getEncData.nil?
-      command_list = getEncData[0]
-      @average_level = getEncData[1]
+    data = getEncData
+    pbMessage("DEBUG getEncData result = #{data.inspect}")
+    if !data.nil?
+      command_list = data[0]
+      @average_level = data[1]
     end
+
     if !command_list.nil?
       command_list.each { |mon| mons.push(mon)}
       mons.each { |thismon| commands.push(GameData::Species.get(thismon).name)}
@@ -285,6 +288,11 @@ class PokeSearch_Scene
 
   # checks all of the current parameters and initiates a battle if successful
   def startSearch
+    data = getEncData
+      if !data.nil?
+        @average_level = data[1]
+      end
+
     if @current_mon.nil?
       pbPlayBuzzerSE()
       pbMessage("Sélectionnez un Pokémon pour lancer le scan.")
@@ -296,16 +304,21 @@ class PokeSearch_Scene
       return
     end
 
-    base_level = @average_level
+    base_level = @average_level || 25  # sécurité si jamais nil
     level = base_level + rand(-2..2)
     if @current_berry == :LEPPABERRY
-      level = [[level - 4, 1].max, 120].min
-    elsif !@current_berry.nil? && ![:CHESTOBERRY, :CHERIBERRY, :PECHABERRY, :RAWSTBERRY, :PERSIMBERRY, :ASPEARBERRY, :LUMBERRY, :ORANBERRY, :SITRUSBERRY,:ENIGMABERRY].include?(@current_berry)
-      level = [[level + 4, 1].max, 120].min
-    elsif @current_berry.nil? == :FIGYBERRY
-      level = [[level + 8, 1].max, 120].min
+      level = [[level - 5, 1].max, 100].min
+    elsif @current_berry == :FIGYBERRY
+      bonus = rand(4..8)
+      level = [[level + bonus, 1].max, 100].min
+    elsif @current_berry == :ORANBERRY
+      bonus = rand(6..12)
+      level = [[level + bonus, 1].max, 100].min
+    elsif !@current_berry.nil? && ![:CHESTOBERRY, :CHERIBERRY, :PECHABERRY, :RAWSTBERRY, :PERSIMBERRY, :ASPEARBERRY, :LUMBERRY, :SITRUSBERRY, :ENIGMABERRY].include?(@current_berry)
+      bonus = rand(2..5)
+      level = [[level + bonus, 1].max, 100].min
     end
-    level = [[level, 120].min, 1].max
+    level = [[level, 100].min, 1].max
     $PokemonSystem.pokesearch_encounter = true
     odds = rand(0..100) < getRepelOdds
     if !@current_repel.nil?
@@ -342,13 +355,13 @@ class PokeSearch_Scene
   def getRepelOdds
     case @current_repel
     when :REPEL
-      return 50
+      return 75
     when :SUPERREPEL
-      return 80
+      return 90
     when :MAXREPEL
       return 100
     end
-    return 10
+    return 35
   end
 
   # update UI based on current status
@@ -494,7 +507,19 @@ class PokeSearch_Scene
 
     # Calcule le niveau moyen des Pokémon
     # Calcule le niveau moyen des Pokémon
-    average_level = arr.length > 0 ? ((min_levels + max_levels) / 2) / arr.length : 25  # Si arr.length = 0, on utilise 60 par défaut
+    if @encounter_tables[currKey].empty?
+      average_level = 25
+    else
+      total_min = 0
+      total_max = 0
+      count = 0
+      @encounter_tables[currKey].each do |enc|
+        total_min += enc[2]
+        total_max += enc[3]
+        count += 1
+      end
+      average_level = ((total_min + total_max) / 2.0 / count).round
+    end
 
 
     return enc_array, average_level

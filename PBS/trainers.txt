@@ -320,6 +320,21 @@ Pokemon = STARLY,12
     IV = 31,31,31,31,31,31
     EV = 0,0,0,0,0,0
 #-------------------------------
+[TRAINER_TAKA,Takaku,2]
+LoseText = C'était de l'aide !
+Pokemon = STARAPTOR,78
+    Moves = GUST,GIGAIMPACT,FLY,DOUBLEEDGE
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,4,252,0
+Pokemon = INFERNAPE,78
+    Moves = NASTYPLOT,FIREBLAST,FOCUSBLAST,VACUUMWAVE
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,0,0,0
+Pokemon = TYRANITAR,80
+    Moves = STEALTHROCK,STONEEDGE,PURSUIT,EARTHQUAKE
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,0,0,0
+#-------------------------------
 [TEAM_MANAGARM,Paul]
 LoseText = ARG !! Je vous deteste !
 Pokemon = MANKEY,10
@@ -1379,6 +1394,42 @@ Pokemon = MAMOSWINE,60
 Pokemon = LAPRAS,63 #-- Dynamax ! 
     IV = 26,27,22,20,22,28
     EV = 252,0,250,4,0,0
+#------------------------------- ARENE JUSTINE FEE
+[RANGEUSE,Lunéa]
+LoseText = Bravo, tu mérites de continuer.
+Pokemon = CLEFABLE,60
+    IV = 30,25,30,20,25,30
+    EV = 10,10,0,20,20,10
+Pokemon = GRANBULL,60
+    IV = 28,30,25,30,20,20
+    EV = 0,10,10,20,20,10
+#------------------------------- ARENE JUSTINE FEE
+[RANGEUSE,Aurelia]
+LoseText = Bravo, tu mérites de continuer.
+Pokemon = SYLVEON,60
+    IV = 30,25,30,20,25,30
+    EV = 10,10,0,20,20,10
+Pokemon = RAPIDASH_1,60
+    IV = 28,30,25,30,20,20
+    EV = 0,10,10,20,20,10
+#------------------------------- ARENE JUSTINE FEE
+[RANGEUSE,Seraphia]
+LoseText = Bravo, tu mérites de continuer.
+Pokemon = AZUMARILL,60
+    IV = 30,25,30,20,25,30
+    EV = 10,10,0,20,20,10
+Pokemon = TINKATON,60
+    IV = 28,30,25,30,20,20
+    EV = 0,10,10,20,20,10
+#------------------------------- ARENE JUSTINE FEE
+[RANGEUSE,Néphalia]
+LoseText = Bravo, tu mérites de continuer.
+Pokemon = WEEZING_1,60
+    IV = 30,25,30,20,25,30
+    EV = 10,10,0,20,20,10
+Pokemon = GRIMMSNARL,60
+    IV = 28,30,25,30,20,20
+    EV = 0,10,10,20,20,10
 #------------------------------- Arène Acier
 [RANGEUSE,Ophélie]
 LoseText = Même mes sculptures sont moins fragiles que mes Pokémon…
@@ -1491,6 +1542,12 @@ Pokemon = GLALIE,65
     EV = 0,250,0,0,250,4
     Happiness = 250
     Size = 220
+#------------------------------- JUSTINE
+[CHAMPION8,Justine]
+LoseText = Tu te défend bien, mais tu vote ? 
+Pokemon = WIGGLYTUFF,66
+Pokemon = AZUMARILL,66
+Pokemon = TINKATON,68
 #------------------------------- JUSTINE
 [CHAMPION8,Justine]
 Items = MEGARING
