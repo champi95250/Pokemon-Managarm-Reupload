@@ -937,4 +937,11 @@ BaseMoney = 90
 SkillLevel = 100
 BattleBGM = 107 - Maitre de la ligue
 VictoryBGM = 110 - Victory
-
+#-------------------------------
+[CYNTHIA]
+Name = Maitre
+Gender = Female
+BaseMoney = 85
+SkillLevel = 100
+BattleBGM = 121 - Cynthia is back
+VictoryBGM = 110 - Victory
