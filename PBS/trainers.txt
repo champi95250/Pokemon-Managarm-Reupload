@@ -1744,7 +1744,7 @@ Pokemon = CHANDELURE,75
 Pokemon = GENGAR,77
     Item = GENGARITE
     IV = 25,25,25,25,25,25
-    EV = 50,0,0,0,0,0
+    EV = 0,0,252,4,0,252
 #------------------------------- LIGUE POKEMON 
 [ELITE4,Caala]
 LoseText = Oh mais ... Le maitre va nous sauver ?
@@ -1758,27 +1758,28 @@ Pokemon = MILOTIC,76
 Pokemon = SYLVEON,76
     IV = 25,25,25,25,25,25
     EV = 50,0,0,0,0,0
-Pokemon = FROSLASS,76
+Pokemon = FROSLASS,77
     IV = 25,25,25,25,25,25
     EV = 50,0,0,0,0,0
-Pokemon = GARDEVOIR,78
+Pokemon = GARDEVOIR,79
     Item = GARDEVOIRITE
     IV = 25,25,25,25,25,25
-    EV = 50,0,0,0,0,0
+    Moves = PSYSHOCK,MOONBLAST,SHADOWBALL,HEALINGWISH
+    EV = 0,0,252,4,0,252
 #------------------------------- LIGUE POKEMON 
 [ELITE5,Dreaye]
 LoseText = Bravo à toi ! Nouveau Champion de la ligue ! 
 Items = MEGARING
 Pokemon = TYRANITAR,78
-    IV = 25,25,25,25,25,25
-    EV = 50,0,0,0,0,0
+    IV = 31,25,25,25,31,31
+    EV = 60,0,0,200,0,200
 Pokemon = LUCARIO,78
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,0,4
     Moves = SWORDSDANCE,METEORMASH,CLOSECOMBAT,BULLETPUNCH
 Pokemon = AERODACTYL,78
     IV = 25,25,25,25,25,25
-    EV = 50,0,0,0,0,0
+    EV = 50,0,50,0,0,50
 Pokemon = ARCANINE,78
     IV = 25,25,25,25,25,25
     Moves = FLAREBLITZ,WILDCHARGE,EXTREMESPEED,MORNINGSUN
