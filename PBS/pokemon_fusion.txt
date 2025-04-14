@@ -1651,7 +1651,7 @@ Color = Red
 Shape = Winged
 Habitat = Mountain
 Category = Wyverne Ardente
-Pokedex = Rataloss est un dragon territorial qui règne en maître sur les volcans. Son souffle brûlant et ses griffes empoisonnées font de lui un prédateur implacable. Il ne laisse aucune proie s’échapper.
+Pokedex = Rathalos est un dragon territorial qui règne en maître sur les volcans. Son souffle brûlant et ses griffes empoisonnées font de lui un prédateur implacable. Il ne laisse aucune proie s’échapper.
 #-------------------------------
 [PYROQUET]
 Name = Pyroquet
@@ -1701,3 +1701,29 @@ Shape = Winged
 Habitat = Forest
 Category = Rapace Foudroyant
 Pokedex = Majestueux et rapide, il fend le ciel comme une comète enflammée. Lorsqu’il plonge à pleine vitesse, des éclairs crépitent autour de ses ailes.
+
+
+#-------------------------------
+[RATALOSS]
+Name = Rataloss
+Types = FIRE,POISON,FLYING
+BaseStats = 95,130,80,100,115,80
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 300
+EVs = ATTACK,2,SPECIAL_ATTACK,1
+CatchRate = 5
+Happiness = 70
+Abilities = FLAREBOOST,TOXICBOOST
+HiddenAbilities = DESOLATELAND
+Moves = 1,EMBER,7,METALCLAW,12,POISONPOWDER,17,AIRSLASH,22,FLAMECHARGE,28,DRAGONCLAW,35,SLUDGEBOMB,41,AIRSLASH,48,FIREBLAST,55,HEATWAVE,61,DRAGONPULSE,70,POISONMAX,80,WYVERNFLAME
+TutorMoves = FLAMETHROWER,FIREBLAST,DRACOMETEOR,STEELWING,TOXIC,AIRSLASH,HEATWAVE,SLUDGEBOMB,FIREFANG,IRONTAIL,SUCKERPUNCH,BRAVEBIRD,POISONTAIL,CLOSECOMBAT,AQUATAIL,FLY,TERABLAST,HIDDENPOWER,REST,PROTECT
+EggGroups = Undiscovered
+HatchSteps = 20480
+Height = 2.2
+Weight = 185.0
+Color = Red
+Shape = Winged
+Habitat = Mountain
+Category = Wyverne Ardente
+Pokedex = BUGGUER

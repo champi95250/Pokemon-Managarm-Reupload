@@ -246,7 +246,6 @@ class PokeSearch_Scene
     commands = []
     mons = []
     data = getEncData
-    pbMessage("DEBUG getEncData result = #{data.inspect}")
     if !data.nil?
       command_list = data[0]
       @average_level = data[1]
