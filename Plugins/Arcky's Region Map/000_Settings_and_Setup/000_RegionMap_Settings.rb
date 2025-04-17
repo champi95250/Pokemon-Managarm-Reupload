@@ -156,7 +156,7 @@
         # Any other values than the one mentioned above will be converted to the closest one accepted.
         # For example 97 will be converted to 95 which will result in the Highlight Images having an opacity of 95%.
         # Any values higher than 100 will be converted to 100%.
-        HIGHLIGHT_OPACITY = 90
+        HIGHLIGHT_OPACITY = 80
 
       #========================== Decoration Settings ===========================#
 
@@ -284,7 +284,7 @@
 
       # true = enabled: The BGM will change when opening the Region Map.
       # false = disabled: The BGM will not change.
-      CHANGE_MUSIC_IN_REGION_MAP = false
+      CHANGE_MUSIC_IN_REGION_MAP = true
 
       # You can set different BGM for each region, change the volume and pitch. Volume and Pitch are 100 by default.
       # - The Region number.
@@ -292,7 +292,7 @@
       # - Volume level.
       # - Pitch level.
       MUSIC_PER_REGION = [
-        [0, "Radio - Oak", 90, 100], #Volume will be set to 90% and Pitch to 100%
+        [0, "Contests_Contest Hall", 90, 100], #Volume will be set to 90% and Pitch to 100%
         [1, "Radio - March"] #Volume and Pitch are both set to 100 by default if not given here.
       ]
 

@@ -27,4 +27,4 @@ Challenges = fancycupsingle,fancycupdouble
 [TrainerList]
 Trainers = cup_mushroom_trainers.txt
 Pokemon = cup_mushroom_pokemon.txt
-Challenges = mushroomcupdouble,mushroomcupsingle
+Challenges = mushroomcupdouble

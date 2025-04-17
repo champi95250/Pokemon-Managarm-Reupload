@@ -234,7 +234,7 @@ module ARMLocationPreview
     south: [26,5],
   }
   FinalRoute = {
-    description: _INTL("<ac>La route final, tranquille, sans dresseurs, sans embrouille</ac>"), # <ac>text</ac> can be used to center text horizontally.
+    description: _INTL("<ac>La Route Final, tranquille, sans dresseurs, sans embrouille</ac>"), # <ac>text</ac> can be used to center text horizontally.
     west: [25,5],
     north: [26,6],
   }

@@ -445,11 +445,12 @@ MapSize = 2,11
 Name = Route Victoire
 Outdoor = true
 ShowArea = true
-MapPosition = 0,22,6
+MapPosition = 0,20,6
+MapSize = 1,1
 #-------------------------------
 [114]   # Grotte Victoire
 Name = Grotte Victoire
-MapPosition = 0,26,6
+MapPosition = 0,22,6
 #-------------------------------
 [115]   # Grotte Victoire N-1
 Name = Grotte Victoire
@@ -459,10 +460,18 @@ MapPosition = 0,26,6
 Name = Grotte Victoire
 MapPosition = 0,26,6
 #-------------------------------
+[117]   # Grotte Victoire
+Name = Grotte Victoire
+ShowArea = true
+MapPosition = 0,26,6
+#-------------------------------
 [118]   # Final Route
 Name = Route Victoire
 Outdoor = true
+ShowArea = true
+Bicycle = true
 MapPosition = 0,26,5
+MapSize = 1,1
 #-------------------------------
 [119]   # Ligue Pokémon Ext
 Name = Ligue Pokemon
