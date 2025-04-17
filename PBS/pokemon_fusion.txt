@@ -114,7 +114,7 @@ Evolutions = FEUNEVOIR,Level,40
 [FEUNEVOIR]
 Name = Feunevoir
 Types = FIRE,FAIRY
-BaseStats = 70,68,68,86,95,105
+BaseStats = 73,67,68,95,137,100
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 250
@@ -168,7 +168,7 @@ Evolutions = MAGNEROSS,Level,55
 [MAGNEROSS]
 Name = Magneross
 Types = ELECTRIC,WATER
-BaseStats = 53,70,98,66,124,100
+BaseStats = 53,69,98,96,124,100
 GenderRatio = Genderless
 GrowthRate = Medium
 BaseExp = 165
@@ -221,7 +221,7 @@ Evolutions = BRYGMA,Level,58
 [BRYGMA]
 Name = Brygma
 Types = FIRE,FLYING
-BaseStats = 86,66,72,110,97,88
+BaseStats = 86,61,72,120,107,98
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 190
@@ -247,7 +247,7 @@ Flags = Fusion
 [TENABRI]
 Name = Tenabri
 Types = ICE,GHOST
-BaseStats = 48,98,185,60,90,85
+BaseStats = 48,93,175,65,90,85
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 190
@@ -352,7 +352,7 @@ Evolutions = OCTIFER,Level,58
 [OCTIFER]
 Name = Octifer
 Types = WATER,STEEL
-BaseStats = 74,98,110,38,72,80
+BaseStats = 74,108,120,48,62,90
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 180
@@ -378,7 +378,7 @@ Flags = Fusion
 [CAGRIN]
 Name = Cagrin
 Types = GRASS
-BaseStats = 35,60,35,30,45,30
+BaseStats = 35,60,35,35,48,30
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 50
@@ -405,7 +405,7 @@ Evolutions = HECATURNE,Level,58
 [HECATURNE]
 Name = Hecaturne
 Types = GRASS,DARK
-BaseStats = 70,105,54,45,90,50
+BaseStats = 70,105,54,65,100,50
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 170
@@ -457,7 +457,7 @@ Flags = Fusion
 [LAGIACRUS]
 Name = Lagiacrus
 Types = WATER,GROUND
-BaseStats = 90,134,82,70,84,90
+BaseStats = 99,133,82,72,64,100
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 180
@@ -483,7 +483,7 @@ Flags = Fusion
 [OMINSINGE]
 Name = Ominsinge
 Types = ELECTRIC,FIGHTING,GHOST
-BaseStats = 100,120,80,90,70,90
+BaseStats = 100,135,70,90,65,90
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 250
@@ -534,7 +534,7 @@ Evolutions = RATCYCLABLE,Item,PAPIERJOURNAL,RANERGIE,Item,CANETTE,RATCRASH,Item,
 [RANERGIE]
 Name = Ranergie
 Types = POISON,DARK,ELECTRIC
-BaseStats = 86,81,80,145,97,92
+BaseStats = 83,75,80,145,99,83
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 240
@@ -559,7 +559,7 @@ Flags = Fusion
 [RATCYCLABLE]
 Name = Ratcyclable
 Types = POISON,DARK,FLYING
-BaseStats = 80,112,70,95,102,75
+BaseStats = 79,123,66,125,92,70
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 240
@@ -584,7 +584,7 @@ Flags = Fusion
 [RATCRASH]
 Name = Ratcrash
 Types = POISON,DARK,STEEL
-BaseStats = 110,82,140,62,82,145
+BaseStats = 105,82,130,62,42,134
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 240
@@ -634,7 +634,7 @@ Flags = Legendary
 [DRACOLORE]
 Name = Dracolore
 Types = WATER,DRAGON,PSYCHIC
-BaseStats = 96,60,80,81,127,105
+BaseStats = 99,56,80,93,127,95
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 190
@@ -660,7 +660,7 @@ Flags = Fusion
 [BRANDATE]
 Name = Brandate
 Types = GHOST,WATER
-BaseStats = 55,84,66,118,100,86
+BaseStats = 52,86,66,120,110,96
 GenderRatio = Female50Percent
 GrowthRate = Fast
 BaseExp = 250
@@ -686,7 +686,7 @@ Flags = Fusion
 [CHAPI]
 Name = Chapi
 Types = GRASS,FAIRY,PSYCHIC
-BaseStats = 85,60,80,77,135,100
+BaseStats = 87,60,80,88,135,100
 GenderRatio = FemaleOneEighth
 GrowthRate = Medium
 BaseExp = 150
@@ -741,7 +741,7 @@ Evolutions = MARTICOUP,Level,45
 [MARTICOUP]
 Name = Marticoup
 Types = STEEL,FLYING
-BaseStats = 85,100,95,80,65,85
+BaseStats = 80,115,95,85,65,85
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 200
@@ -767,7 +767,7 @@ Flags = Fusion
 [LAWATIN]
 Name = Lawatin
 Types = NORMAL,FIGHTING
-BaseStats = 90,120,85,85,75,70
+BaseStats = 87,120,75,150,55,63
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 210
@@ -822,7 +822,7 @@ Evolutions = NOCTURPHIS,Level,40
 [NOCTURPHIS]
 Name = Nocturphis
 Types = GHOST,FLYING,DARK
-BaseStats = 80,80,70,95,95,100
+BaseStats = 85,82,75,100,95,115
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 200
@@ -877,7 +877,7 @@ Evolutions = TURMOILET,Level,42
 [TURMOILET]
 Name = Turmoilet
 Types = WATER,POISON
-BaseStats = 90,60,45,55,120,80
+BaseStats = 135,50,75,65,125,100
 GenderRatio = Genderless
 GrowthRate = Medium
 BaseExp = 150
@@ -932,7 +932,7 @@ Evolutions = LEVIATROSS,Level,20
 [LEVIATROSS]
 Name = Leviatross
 Types = WATER,FLYING,GHOST
-BaseStats = 90,125,80,95,88,75
+BaseStats = 90,108,35,92,145,80
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 240
@@ -959,7 +959,7 @@ WildItemCommon = SPELLTAG
 [DYNAMANT]
 Name = Dynamant
 Types = BUG,FIRE
-BaseStats = 40,65,40,45,90,80
+BaseStats = 45,65,40,105,125,100
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 120
@@ -986,7 +986,7 @@ WildItemCommon = CHARCOAL
 [ALKAALITE]
 Name = Alkaalite
 Types = FIGHTING,ELECTRIC
-BaseStats = 50,65,40,50,40,75
+BaseStats = 50,50,50,60,70,65
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 100
@@ -1014,7 +1014,7 @@ Evolutions = DURASSAULT,Level,44
 [DURASSAULT]
 Name = Durassault
 Types = FIGHTING,ELECTRIC
-BaseStats = 100,120,95,55,50,75
+BaseStats = 98,60,105,85,120,85
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 250
@@ -1041,7 +1041,7 @@ WildItemCommon = CELLBATTERY
 [BADBUG]
 Name = Badbug
 Types = GRASS,POISON
-BaseStats = 44,65,35,62,55,38
+BaseStats = 45,55,35,70,80,55
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 64
@@ -1069,7 +1069,7 @@ Evolutions = BADYWEED,Level,35
 [BADYWEED]
 Name = Badyweed
 Types = GRASS,POISON
-BaseStats = 70,95,55,76,100,62
+BaseStats = 70,70,55,95,125,85
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 180
@@ -1150,7 +1150,7 @@ Evolutions = PIXL,Level,42
 [PIXL]
 Name = PixL
 Types = BUG,ELECTRIC
-BaseStats = 85,65,75,125,90,115
+BaseStats = 85,65,75,125,95,110
 GenderRatio = Genderless
 GrowthRate = Medium
 BaseExp = 240
@@ -1176,7 +1176,7 @@ Flags = Fusion
 [HAUNTGLASS]
 Name = Hauntglass
 Types = GHOST,DARK
-BaseStats = 63,102,40,110,80,120
+BaseStats = 63,80,40,110,120,105 
 GenderRatio = FemaleOneEighth
 GrowthRate = Medium
 BaseExp = 165
@@ -1230,7 +1230,7 @@ Evolutions = DRALYTRA,Level,48
 [DRALYTRA]
 Name = Dralytra
 Types = BUG,DRAGON,FLYING
-BaseStats = 90,110,80,95,85,110
+BaseStats = 85,115,65,105,85,110
 GenderRatio = Female50Percent
 GrowthRate = Fast
 BaseExp = 240
@@ -1281,7 +1281,7 @@ Evolutions = CAROSSELLA,LevelFemale,46,PANPOTIN,LevelMale,46
 [PANPOTIN]
 Name = Panpotin
 Types = FIGHTING,NORMAL,GROUND
-BaseStats = 90,115,80,100,55,70
+BaseStats = 90,122,82,116,55,70
 GenderRatio = AlwaysMale
 GrowthRate = Medium
 BaseExp = 200
@@ -1306,7 +1306,7 @@ Generation = 10
 [CAROSSELLA]
 Name = Carossella
 Types = NORMAL,FAIRY,PSYCHIC
-BaseStats = 80,70,60,105,110,80
+BaseStats = 80,70,60,115,125,80
 GenderRatio = AlwaysFemale
 GrowthRate = Medium
 BaseExp = 200
@@ -1331,7 +1331,7 @@ Generation = 10
 [CANCOYOTTE]
 Name = Cancoyotte
 Types = FIGHTING,DARK
-BaseStats = 70,120,68,110,45,67
+BaseStats = 70,120,78,110,45,77
 GenderRatio = FemaleOneEighth
 GrowthRate = Medium
 BaseExp = 180
@@ -1409,7 +1409,7 @@ Generation = 10
 [BALIGID]
 Name = Baligid
 Types = WATER,STEEL,ICE
-BaseStats = 136,85,102,55,80,92
+BaseStats = 130,70,104,61,70,105
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 180
@@ -1511,7 +1511,7 @@ Evolutions = RENFLESIA,Level,52
 [RENFLESIA]
 Name = Renflesia
 Types = GHOST,POISON,GRASS
-BaseStats = 80,50,75,60,140,135
+BaseStats = 85,45,65,65,140,135
 GenderRatio = Female50Percent
 GrowthRate = Fast
 BaseExp = 260
@@ -1536,7 +1536,7 @@ Pokedex = RENFLESIA se cache dans les marécages hantés où l’air est empli d
 [TRIPULZ]
 Name = Tripulz
 Types = ELECTRIC,STEEL
-BaseStats = 55,40,80,40,60,105
+BaseStats = 55,40,70,70,75,80
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 100
@@ -1561,7 +1561,7 @@ Evolutions = MINDSPARK,Item,THUNDERSTONE
 [MINDSPARK]
 Name = Mindspark
 Types = ELECTRIC,STEEL,PSYCHIC
-BaseStats = 85,60,110,70,140,113
+BaseStats = 72,55,90,110,145,100
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 240
@@ -1585,7 +1585,7 @@ Pokedex = Ce Pokémon a évolué en fusionnant ses sphères énergétiques avec 
 [LILASPECTRA]
 Name = Lilaspectra
 Types = GHOST,FIRE,FAIRY
-BaseStats = 96,40,60,78,130,125
+BaseStats = 96,40,65,78,135,130
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 250
@@ -1608,7 +1608,7 @@ Pokedex = LILASPECTRA erre dans l'entre-deux, cherchant l’âme de sa fille dis
 [DRAGEMENTAL]
 Name = Dragemental
 Types = DRAGON,FAIRY,PSYCHIC
-BaseStats = 94,80,80,90,123,113
+BaseStats = 94,75,60,95,128,108
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 280
@@ -1632,7 +1632,7 @@ Pokedex = Dragemental est une entité mystique née de l’union entre un dragon
 [RATHALOS]
 Name = Rathalos
 Types = FIRE,POISON,FLYING
-BaseStats = 95,130,80,100,115,80
+BaseStats = 100,135,70,90,115,95
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 300
@@ -1656,7 +1656,7 @@ Pokedex = Rathalos est un dragon territorial qui règne en maître sur les volca
 [PYROQUET]
 Name = Pyroquet
 Types = FIRE,FLYING
-BaseStats = 45,60,40,85,75,50
+BaseStats = 46,60,30,85,75,48
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 115
@@ -1681,7 +1681,7 @@ Evolutions = PYROSTORM,Level,50
 [PYROSTORM]
 Name = Pyrostorm
 Types = FIRE,FLYING,ELECTRIC
-BaseStats = 75,115,70,125,105,85
+BaseStats = 70,115,50,135,105,75
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 220

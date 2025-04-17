@@ -2,9 +2,9 @@
 [RAINBOWRUSH]
 Name = Rainbow Rush
 Type = FAIRY
-Category = Physical
-Power = 100
-Accuracy = 75
+Category = Special
+Power = 90
+Accuracy = 100
 TotalPP = 15
 Target = NearOther
 FunctionCode = RaiseUserSpeed1
