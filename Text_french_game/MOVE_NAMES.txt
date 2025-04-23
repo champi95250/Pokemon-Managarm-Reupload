@@ -21,7 +21,7 @@ Plaie-Croix
 Signal Beam
 Rayon Signal
 Skitter Smack
-Trépignement
+Ravage Rampant
 U-turn
 Demi-Tour
 Steamroller
@@ -47,7 +47,7 @@ Appel Défense
 Heal Order
 Appel Soins
 Powder
-Nuée de Poudre
+Poudre 
 Quiver Dance
 Papillodanse
 Rage Powder
@@ -65,7 +65,7 @@ Furie Dimension
 Foul Play
 Tricherie
 Fiery Wrath
-Courroux Ardant
+Courroux Ardent
 Darkest Lariat
 Dark Lariat
 Night Daze
@@ -75,7 +75,7 @@ Mâchouille
 Dark Pulse
 Vibrobscur
 False Surrender
-Fourberie
+Fourbette
 Jaw Lock
 Croque Fort
 Throat Chop
@@ -263,7 +263,7 @@ Lumière du Néant
 Fleur Cannon
 Canon Floral
 Misty Explosion
-Explosion Envoûtante
+Explo-Brume
 Moonblast
 Pouvoir Lunaire
 Play Rough
@@ -283,7 +283,7 @@ Vent Féérique
 Nature's Madness
 Ire de la Nature
 Aromatic Mist
-Brume Parfumée
+Brume Capiteuse
 Baby-Doll Eyes
 Regard Touchant
 Charm
@@ -291,7 +291,7 @@ Charme
 Crafty Shield
 Vigilance
 Decorate
-Cadeau
+Nappage
 Fairy Lock
 Verrou Enchanté
 Floral Healing
@@ -331,7 +331,7 @@ Pied Sauté
 Sacred Sword
 Lame Sainte
 Thunderous Kick
-Pied-Éclair
+Coup Fulgurant
 Secret Sword
 Lame Ointe
 Sky Uppercut
@@ -347,7 +347,7 @@ Casse-Brique
 Drain Punch
 Vampipoing
 Vital Throw
-Stratégie
+Corps Perdu
 Wake-Up Slap
 Réveil Forcé
 Low Sweep
@@ -395,7 +395,7 @@ Coaching
 Detect
 Détection
 Mat Block
-Tatami
+Tatamigaeshi
 No Retreat
 Ultime Bastion
 Octolock
@@ -409,7 +409,7 @@ Rafale Feu
 Eruption
 Éruption
 Mind Blown
-Cérébro-Force
+Caboche-Kaboum
 Shell Trap
 Carapiège
 Blue Flare
@@ -453,7 +453,7 @@ Poing de Feu
 Mystical Fire
 Feu Ensorcelé
 Burning Jealousy
-Jalousie
+Feu Envieux
 Flame Burst
 Rebondifeu
 Fire Fang
@@ -493,7 +493,7 @@ Rebond
 Drill Peck
 Bec Vrille
 Oblivion Wing
-Aile de l'Oubli
+Mort-Ailes
 Air Slash
 Lame d'Air
 Chatter
@@ -527,7 +527,7 @@ Atterrissage
 Tailwind
 Vent Arrière
 Astral Barrage
-Courroux Astral
+Eclat Spectral
 Shadow Force
 Revenant
 Poltergeist
@@ -625,13 +625,13 @@ Tranch'Herbe
 Vine Whip
 Fouet Lianes
 Branch Poke
-Coup d'Main
+Tapotige
 Leafage
 Feuillage
 Mega Drain
 Méga-Sangsue
 Snap Trap
-Étaglob
+Troquenard
 Bullet Seed
 Balle Graine
 Absorb
@@ -1103,13 +1103,13 @@ Gloutonnerie
 Substitute
 Substitut
 Supersonic
-Sonic Boom
+Ultrason
 Swagger
 Frime
 Swallow
 Avaler
 Sweet Scent
-Parfum Sucré
+Doux Parfum
 Swords Dance
 Danse-Lames
 Tail Whip
@@ -1139,43 +1139,43 @@ Détricanon
 Sludge Wave
 Cradovague
 Shell Side Arm
-Bras de Coquille
+Kokiyarme
 Sludge Bomb
-Bombe Boue
+Bombe Beurk
 Poison Jab
 Direct Toxik
 Cross Poison
-Poison Croisé
+Poison Croix
 Sludge
-Boue
+Détritus
 Venoshock
 Choc Venin
 Clear Smog
-Brume Purifiante
+Bain de Smog
 Poison Fang
-Crocs Venimeux
+Crochet Venin
 Poison Tail
-Queue Venimeuse
+Queue Poison
 Acid
 Acide
 Acid Spray
-Spray Acide
+Bombe Acide
 Smog
-Smog
+Purédpois
 Poison Sting
 Dard-Venin
 Acid Armor
-Armure Acide
+Acidarmure
 Baneful Bunker
-Bunker Maléfique
+Blockhaus
 Coil
 Enroulement
 Corrosive Gas
 Gaz Corrosif
 Gastro Acid
-Acide Gastrique
+Suc Digestif
 Poison Gas
-Gaz Venimeux
+Gaz Toxique
 Poison Powder
 Poudre Toxic
 Purify
@@ -1187,81 +1187,81 @@ Pics Toxik
 Toxic Thread
 Fil Toxique
 Venom Drench
-Bain Venimeux
+Piège de Venin
 Prismatic Laser
 Laser Prismatique
 Psycho Boost
-Boost Psychique
+Pyscho Boost
 Future Sight
-Prémonition
+Prescience
 Synchronoise
-Synchronoise
+Synchropeine
 Dream Eater
-Dévoreur de Rêves
+Dévorève
 Photon Geyser
 Geyser Photonique
 Psystrike
-Psycho-Frappe
+Frappe Psy
 Freezing Glare
-Regard Glacial
+Regard Glaçant
 Psychic
-Psychic
+Psyko
 Psychic Fangs
-Crocs Psychiques
+Psycho-Croc
 Eerie Spell
-Sort Effrayant
+Sort Sinistre
 Expanding Force
-Force Expansive
+Vaste Pouvoir
 Extrasensory
 Extrasenseur
 Hyperspace Hole
-Trou Hyperspatial
+Trou Dimensionnel
 Psyshock
-Psycho-Choc
+Choc Psy
 Zen Headbutt
-Tête de Zen
+Psykoud'Boul
 Luster Purge
-Purge Lumineuse
+Lumi-Eclat
 Mist Ball
-Boule Brumeuse
+Balle Brume
 Psycho Cut
-Coupe Psychique
+Coupe Psycho
 Psybeam
-Psybeam
+Rafale Psy
 Heart Stamp
-Tampon Cœur
+Crèvecoeur
 Confusion
 Choc Mental
 Stored Power
-Pouvoir Stocké
+Force Ajoutée
 Mirror Coat
-Miroir
+Voile Miroir
 Psywave
-Vague Psychique
+Vague Psy
 Agility
-Agilité
+Hate
 Ally Switch
-Échange Allié
+Interversion
 Amnesia
 Amnésie
 Barrier
 Barrière
 Calm Mind
-Esprit Calme
+Plénitude
 Cosmic Power
 Pouvoir Cosmique
 Gravity
 Gravité
 Guard Split
-Partage de Défense
+Partage Garde
 Guard Swap
-Échange de Défense
+Permugarde
 Heal Block
-Blocage de Guérison
+Anti Soin
 Heal Pulse
-Pulse de Guérison
+Vibra-Soin
 Healing Wish
-Souhait de Guérison
+Voeu Soin
 Heart Swap
 Échange de Cœur
 Hypnosis
@@ -1271,28 +1271,28 @@ Possessif
 Instruct
 Instruction
 Kinesis
-Cinésie
+Télékinésie
 Light Screen
 Mur Lumière
 Lunar Dance
-Danse Lunaire
+Danse Lune
 Magic Coat
-Manteau Magique
+Reflet Magik
 Magic Powder
 Poudre Magique
 Magic Room
-Salle Magique
+Zone Magique
 Meditate
-Méditation
+Yoga
 Miracle Eye
 Œil Miracle
 Power Split
-Partage de Pouvoir
+Partage Force
 Power Swap
-Échange de Pouvoir
+Permuforce
 Power Trick
 Truc de Pouvoir
-Psychic Terrain
+Astuce Force
 Terrain Psychique
 Psycho Shift
 Déplacement Psychique
@@ -1303,29 +1303,29 @@ Repos
 Role Play
 Imitation
 Skill Swap
-Échange de Compétence
+Echange
 Speed Swap
-Échange de Vitesse
+Permuvitesse
 Telekinesis
-Télékinésie
+Lévikinesie
 Teleport
 Téléport
 Trick
-Truc
+Tour de Magie
 Trick Room
-Salle des Tours
+Distorsion
 Wonder Room
-Salle Merveille
+Zone Etrange
 Head Smash
-Écrasement
+Fracasse Tête
 Rock Wrecker
-Destructeur de Pierre
+Roc Boulet
 Meteor Beam
 Rayon Météore
 Diamond Storm
-Tempête Diamant
+Tempête Adamantin
 Stone Edge
-Tranch' Roche
+Lame de Roc
 Power Gem
 Rayon Gemme
 Rock Slide
@@ -1343,326 +1343,326 @@ Vif Roc
 Rollout
 Roulade
 Rock Blast
-Explosion Roche
+Boule Roc
 Rock Polish
-Polissage Roche
+Poliroche
 Sandstorm
 Tempête de Sable
 Stealth Rock
-Roche Cachée
+Piège de Roc
 Tar Shot
-Tir de Poix
+Goudronnage
 Wide Guard
-Garde Étroite
+Garde Large
 Doom Desire
 Souhait de Ruine
 Steel Beam
 Rayon Acier
 Steel Roller
-Rouleau Acier
+Métalliroue
 Behemoth Bash
-Frappe Béhemoth
+Aegis Maxima
 Behemoth Blade
-Lame Béhemoth
+Gladius Maximus
 Iron Tail
 Queue de Fer
 Sunsteel Strike
-Frappe Soleil d'Acier
+Choc Météore
 Meteor Mash
-Broyage Météore
+Poing Météore
 Anchor Shot
-Tir Ancre
+Ancrage
 Flash Cannon
-Canon Flash
+Luminocanon
 Iron Head
 Tête de Fer
 Smart Strike
-Frappe Intelligente
+Estocorne
 Steel Wing
 Aile d'Acier
 Double Iron Bash
-Double Frappe de Fer
+Écrous d'Poing
 Mirror Shot
 Tir Miroir
 Magnet Bomb
-Bombe Magnétique
+Bombaimant
 Gear Grind
-Broyeur à Engrenages
+Lancécrou
 Metal Claw
 Griffe Acier
 Bullet Punch
-Poing-Balle
+Pisto-Poing
 Gyro Ball
-Boule Gyro
+Gyroballe
 Heavy Slam
-Écrasement Lour
+Tacle Lourd
 Metal Burst
-Répercussion Acier
+Fulmifer
 Autotomize
-Automisation
+Allègement
 Gear Up
-Préparation des Engrenages
+Engrenage
 Iron Defense
-Défense Acier
+Mur de Fer
 King's Shield
-Bouclier du Roi
+Bouclier Royal
 Metal Sound
-Son Acier
+Strido-Son
 Shift Gear
-Changement d'Engrenage
+Changement Vitesse
 Hydro Cannon
-Canon Hydro
+Hydroblast
 Water Spout
-Jet d'Eau
+Giclédo
 Hydro Pump
-Pompe Hydro
+Hydrocanon
 Origin Pulse
-Pulsation Originelle
+Onde Originelle
 Steam Eruption
-Éruption Vapeur
+Jet de Vapeur
 Crabhammer
-Marteau de Crabe
+Pince-Masse
 Aqua Tail
-Queue d'Eau
+Hydroqueue
 Muddy Water
-Eau Boueuse
+Ocroupi
 Sparkling Aria
-Aria Étincelante
+Aria de l'Ecume
 Surf
 Surf
 Fishious Rend
-Déchirement Aquatique
+Branchicrok
 Liquidation
 Liquidation
 Dive
 Plongée
 Scald
-Échaudure
+Ebullition
 Snipe Shot
-Tir Précis
+Tir de Précision
 Water Pledge
-Engagement d'Eau
+Aire d'Eau
 Waterfall
 Cascade
 Razor Shell
-Coquille Épaisse
+Coquilame
 Brine
-Brine
+Saumure
 Bubble Beam
-Rayon Bulles
+Bulles d'O
 Octazooka
 Octazooka
 Flip Turn
-Tourner
+Eau Revoir
 Water Pulse
-Pulsation d'Eau
+Vibraqua
 Aqua Jet
-Jet d'Eau
+Aqua-Jet
 Bubble
-Bulle
+Ecume
 Water Gun
 Pistolet à Eau
 Clamp
-Pince
+Claquoir
 Whirlpool
-Tourbillon
+Siphon
 Surging Strikes
-Coups Déferlants
+Torrent de Coups
 Water Shuriken
-Shuriken d'Eau
+Sheauriken
 Aqua Ring
 Anneau d'Eau
 Life Dew
-Rosée de Vie
+Fontaine de Vie
 Rain Dance
 Danse Pluie
 Soak
-Imprégnation
+Détrempage
 Water Sport
-Sport d'Eau
+Tourniquet
 Withdraw
 Repli
 Dire Claw
-Griffe Mortelle
+Griffes Funestes
 Springtide Storm
-Tempête Printanière
+Typhon Passionné
 Raging Fury
-Fureur Déchaînée
+Grand Courroux
 Wave Crash
-Écrasement de Vague
+Aquatacle
 Chloroblast
-Chloroblast
+Herblast
 Mountain Gale
-Tempête de Montagne
+Bise Glaciaire
 Headlong Rush
-Charge Tête Baissée
+Assaut Frontal
 Barb Barrage
-Barrage de Dard
+Multitoxik
 Esper Wing
-Aile Esper
+Ailes Psycho
 Bitter Malice
-Malice Amère
+Cœur de Rancœur
 Triple Arrows
-Flèches Triples
+Triple Flèche
 Bleakwind Storm
-Tempête Vent Morne
+Typhon Hivernal
 Wildbolt Storm
-Tempête de Foudre Sauvage
+Typhon Fulgurant
 Sandsear Storm
-Tempête de Sable Brûlant
+Typhon Pyrosable
 Lunar Blessing
-Bénédiction Lunaire
+Prière Lunaire
 Psyshield Bash
-Frappe Psy-blindage
+Sprint Bouclier
 Power Shift
-Changement de Pouvoir
+Échange Force
 Stone Axe
-Hache Roche
+Hache de Pierre
 Mystical Power
 Pouvoir Mystique
 Victory Dance
-Danse de la Victoire
+Danse Victoire
 Shelter
-Abri
+Mur Fumigène
 Infernal Parade
-Parade Infernal
+Cortège Funèbre
 Ceaseless Edge
-Tranchant Ininterrompu
+Vagues à Lames
 Take Heart
-Réconfort
+Extravaillance
 Aqua Cutter
-Coupe Aqua
+Tranch'Aqua
 Aqua Step
-Pas Aqua
+Danse Aquatique
 Armor Cannon
-Canon Armure
+Canon Blindé
 Axe Kick
 Talon-Marteau
 Bitter Blade
-Lame Amère
+Lame en Peine
 Blazing Torque
-Couple Brûlant
+Crash Brûlant
 Chilling Water
-Eau Glaciale
+Douche Froide
 Chilly Reception
-Réception Glaciale
+Neigeux de Mots
 Collision Course
-Course de Collision
+Nitro Crash
 Combat Torque
-Couple de Combat
+Crash Musclé
 Comeuppance
-Reddition
+Vindicte
 Doodle
-Gribouillis
+Décalquage
 Double Shock
-Double Choc
+Double Décharge
 Electro Drift
-Dérive Électrique
+Turbo Volt
 Fillet Away
-Dégagement
+Décharnement
 Flower Trick
-Tour de Fleurs
+Magie Florale
 Gigaton Hammer
-Marteau Gigaton
+Marteau Mastoc
 Glaive Rush
-Rush de Glaive
+Charge Glaive
 Hyper Drill
-Foreuse Hyper
+Hyperceuse
 Ice Spinner
-Tourbillon Glacé
+Cryo-Pirouette
 Jet Punch
-Poing-Fusée
+Poing Sonique
 Kowtow Cleave
-Fente Courbée
+Génusection
 Last Respects
-Derniers Hommages
+Hommage Posthume
 Lumina Crash
-Choc Lumina
+Lumino-Impact
 Magical Torque
-Couple Magique
+Crash Magique
 Make It Rain
-Faites-le Pleuvoir
+Ruée d'Or
 Mortal Spin
-Rotation Mortelle
+Toupie Éclat
 Noxious Torque
-Couple Noxieux
+Crash Toxique
 Order Up
-Commandement
+Plat du Jour
 Population Bomb
-Bombe de Population
+Prolifération
 Pounce
-Saut
+Bond
 Rage Fist
-Poing de Rage
+Poing de Colère
 Raging Bull
-Taureau Déchaîné
+Taurogne
 Revival Blessing
-Bénédiction de Renaissance
+Second Souffle
 Ruination
-Ruin
+Cataclysme
 Salt Cure
-Remède de Sel
+Salaison
 Shed Tail
-Queue de Mue
+Queulonage
 Silk Trap
-Piège de Soie
+Piège de Fil
 Snowscape
-Paysage Neigeux
+Chute de Neige
 Spicy Extract
-Extrait Épicé
+Habanerage
 Spin Out
 Dérapage
 Tidy Up
-Rangement
+Grand Nettoyage
 Torch Song
-Chanson du Flambeau
+Chant Flamboyant
 Trailblaze
-Traçage
+Desherbaffe
 Triple Dive
-Triple Plongée
+Triple Plongeon
 Twin Beam
-Rayon Jumeau
+Double Laser
 Wicked Torque
-Couple Maléfique
+Crash Obscur
 Hydro Steam
-Vapeur Hydro
+Hydrovapeur
 Psyblade
-Lame Psy
+Lame Psychique
 Blood Moon
-Lune de Sang
+Lune Rouge
 Matcha Gotcha
-Matcha Gotcha
+Mortier Matcha
 Syrup Bomb
-Bombe de Sirop
+Bombe au Sirop
 Ivy Cudgel
-Massue de Lierre
+Massue Liane
 Electro Shot
-Tir Électrique
+Fulgurayon
 Tera Starstorm
-Tempête Stellaire Tera
+Pluie Térastrale
 Fickle Beam
-Rayon Capricieux
+Laser Hasard
 Burning Bulwark
 Rempart Brûlant
 Thunderclap
-Éclair
+Vif Éclair
 Mighty Cleave
-Fente Puissante
+Lame Puissante
 Tachyon Cutter
-Coupe Tachyon
+Lame Tachyonique
 Hard Press
-Pression Intense
+Pression Extrême
 Dragon Cheer
-Encouragement du Dragon
+Cri Draconique
 Alluring Voice
 Voix Envoûtante
 Temper Flare
-Flamme Tempérée
+Indignition
 Supercell Slam
-Écrasement Supercellulaire
+Volt Assaut
 Psychic Noise
-Bruit Psychique
+Dissonance Psy
 Upper Hand
-Avantage
+Prio-Parade
 Malignant Chain
-Chaîne Maligne
+Chaîne Malsaine
