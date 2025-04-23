@@ -9,7 +9,7 @@ PWT_OPP_EVENT = 35
 # ID of the scoreboard event
 PWT_SCORE_BOARD_EVENT = 34
 # ID of the lobby trainer event
-PWT_LOBBY_EVENT = 6
+PWT_LOBBY_EVENT = 3
 # ID of the event used to display an optional even if the player wins the PWT
 PWT_FANFARE_EVENT = 38
 # If marked as true, it will apply a multiplier based on the player's current win streak. Defeault to false.
@@ -106,16 +106,42 @@ GameData::PWTTournament.register({
 
 GameData::PWTTournament.register({
   :id => :Kanto_Leaders,
-  :name => _INTL("Kanto Leaders"),
+  :name => _INTL("Managarm Team A"),
   :trainers => [
-                [:GARDE,"Brock","Your Pokémon's powerful attacks overcame my rock-hard resistance...\nYou're stronger than I expected...","My barrier was tough to break. Maybe next time.",1,"You were pretty tough! I can't wait to face off against you again!","I'm Brock! I'm an expert on Rock-type Pokémon.","Brock: I really enjoyed the battle with you.\nStill, the world is huge! I can't believe you got past my rock-hard defense!"],
-                [:GARDE,"Misty","You are a skilled Trainer, I have to admit that.","Looks like out of the two of us, I was the better Trainer.",1,"I'm going to train even harder, so that I can beat you next time!"],
-                [:GARDE,"Lt.Surge","You shocked my very core, soldier!","At ease son, not everyone can beat me.",1,"Do you feel this electrifying atmosphere? I'm so pumped!"],
-                [:GARDE,"Erika","Oh my! \nLooks like I've underestimated you.","Keep practicing hard, and one day you will be the victor.",1,"My Pokémon have bloomed ever since they've battled you."],
-                [:GARDE,"Sabrina","Impossible! I did not predict this!","The outcome was just as I predicted.",1,"The future tells me of our rematch."],
-                [:GARDE,"Koga","You've got a great battle technique!","My technique was the superior one!",1],
-                [:GARDE,"Blaine","Your flame burnt me up!","My flames are not something everyone can handle.",1,"You really burned me up back there!"],
-                [:GARDE,"Giovanni","What? \nMe, lose?!","I could have never lost to a kid like you!",1]
+                [:CHAMPION5,"Panda","T'as encore percé ma défense... T'es vraiment pas un gamin ordinaire.",
+                  "Pas mal... Mais pas encore assez pour me faire plier.\nOn remet ça quand tu veux.",
+                  2,
+                  "T'es revenu, hein ? J'attendais ce moment.\nMais ici, c’est pas comme chez moi. J’te laisserai rien passer.",
+                  "Voyons si tu peux encaisser un combat pur et dur cette fois ci !",
+                  "Panda : Bien joué. Même ici, t’arrives à faire trembler les murs.\nT’oublie pas d’où tu viens, et ça, j’respecte."],
+                [:MISTRO,"Mistro","Wesh ?! \nTa progresser de Zinzin.","On dirait que de nous deux, c'est moi qui ai été le meilleur Dresseur.",2,"Je vais m'entraîner encore plus dur pour pouvoir te battre la prochaine fois !"],
+                [:WATERHAZE,"WaterHaze","Wesh ?! \nTa progresser de Zinzin.","Tout le monde ne peut pas me battre.",2,"Je suis tellement excité !"],
+                [:QUENTIN,"Quentin","Wesh ?! \nTa progresser de Zinzin.","Continue à t'entrainer...",2,"Mes Pokémon se sont épanouis depuis qu'ils t'ont affronté."],
+                [:CHAMPION3,"Chrisys","Wesh ?! \nTa progresser de Zinzin.","Continue à t'entrainer...",2,"Le futur me parle de notre revanche"],
+                [:CHAMPI,"Champi",
+                 "J’avoue, t’as assuré. Même moi, j’aurais rien pu faire…\nT’as gagné le droit de te la péter. Juste un peu.",
+                 "Héhé… Garde bien ça en tête. Parce que la prochaine fois, je t’écrase.",
+                 4,
+                 "Ah, c’est toi ? Parfait. J’aime quand c’est pas trop facile.",
+                 "Me revoilà ! Champi ! Mais oublie pas que je suis là pour tout rafler.",
+                 "Champi : Bien joué. T’as mérité ta victoire… cette fois.\nMais souviens-toi : je ne perds jamais deux fois."],
+                [:TRAINER_TAKA,"Takaku",
+                 "WOUH ! Ce combat était digne d’un final de manga !\nT’as mis le feu, p’tit ! Même moi j’me suis fait surprendre.",
+                 "Pas mal du tout... Mais c’est pas fini, t’entends ?! J’vais m’entraîner avec Zoro et je reviens te découper en 108 tranches.",
+                 3,
+                 "Yo ! T’as vu Luffy ? Moi non plus, mais j’suis prêt à tout pour lui péter la gueule si ça peut te faire progresser.",
+                 "Takaku King, ancien Maître. Fan de One Piece, mais surtout fan de baston.\nT’es prêt à vivre un arc épique, ou pas ?",
+                 "Takaku : Héhé, t’as progressé... Mais t’es encore loin d’être un empereur !\nAllez, continue comme ça, futur Roi des Dresseurs."],
+
+               #### [:GARDE,"Giovanni","What? \nMe, lose?!","I could have never lost to a kid like you!",1],
+                [:TRAINER_SHEENA,"Sheena",
+                 "Je savais que tu étais fort… mais là, tu m’as carrément dépassée.\nContinue comme ça. Le monde a besoin de dresseurs comme toi.",
+                 "T’as gagné cette fois… mais moi, j’abandonne jamais.\nJe reviendrai, plus prête que jamais.",
+                 2,
+                 "Tu sais que je déteste perdre, hein ? Alors prépare-toi, je compte bien te pousser dans tes retranchements.",
+                 "Sheena. Si t’es là, c’est que t’as encore soif de progrès.\nParfait. Moi aussi.",
+                 "Sheena : C'était intense. Comme toujours avec toi.\nUn jour, on se battra côte à côte pour de bon… Mais aujourd’hui, c’est chacun pour soi."]
+
                ],
   :rules_proc => proc {|length|
     rules = PokemonChallengeRules.new
@@ -132,5 +158,5 @@ GameData::PWTTournament.register({
   :banned_proc => proc {
     pbMessage(_INTL("Certain exotic species, as well as eggs, are ineligible.\\1"))
   },
-  :points_won => 2
+  :points_won => 3
 })

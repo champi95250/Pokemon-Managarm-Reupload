@@ -53,6 +53,39 @@ module ChoixSelections
     "Le 1er Sbire",
     "Aucun",
   ]
+  Lafin = [
+    "Champi",
+    "Many",
+    "Boby",
+    "Sonaku",
+    "Lowell",
+    "Néoskyblue",
+    "Flamehaze",
+    "Takakuna",
+    "Ferdi",
+    "Zéké",
+    "Mistro",
+    "XIII",
+    "Chris",
+    "Mira",
+    "Caaling",
+    "Vaene",
+  ]
+  Fortiche = [
+    "un connard",
+    "un bug",
+    "un candidat de Télé-réalité",
+    "un cornichon",
+    "un cafard",
+    "un rat",
+    "une vache",
+    "un gourmand",
+    "un trou du cul",
+    "LA PLUS GROSSE MERDE QUI EXISTE ! WALLAH FAUT ETRE AUSSI UNE MERDE POUR CHOISIR CA ALORS QUE TU AS PAS VUE TOUTE LA REPONSE !",
+    "un faible",
+    "un putain de roux",
+    "un pédé refoulé",
+  ]
 end
 
   #------------------------------------

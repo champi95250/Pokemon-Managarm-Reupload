@@ -242,6 +242,9 @@ module ARMLocationPreview
     description: _INTL("<ac>La Ligue pokémon, le dernier endroit où prouver sa valeur</ac>"), # <ac>text</ac> can be used to center text horizontally.
     east: [26,5],
   }
+  Route19 = {
+    description: _INTL("<ac>Une route réserver au plus grand dresseurs</ac>"), # <ac>text</ac> can be used to center text horizontally.
+  }
 
 
 end

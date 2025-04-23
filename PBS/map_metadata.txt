@@ -410,9 +410,11 @@ Name = Crystosombre
 Outdoor = true
 MapPosition = 0,3,10
 #-------------------------------
-[102]   # MAP102
-Name = Crystosombre
-MapPosition = 0,3,10
+[102]   # Route 19
+Name = Route 19
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,5
 #-------------------------------
 [106]   # Route 18
 Name = Route 18
@@ -465,7 +467,7 @@ Name = Grotte Victoire
 ShowArea = true
 MapPosition = 0,26,6
 #-------------------------------
-[118]   # Final Route
+[118]   # FinalRoute
 Name = Route Victoire
 Outdoor = true
 ShowArea = true
